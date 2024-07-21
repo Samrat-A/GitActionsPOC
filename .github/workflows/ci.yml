@@ -1,4 +1,5 @@
 name: CI POC workflow
+run-name: PR/Push by ${{ github.actor }}
 
 on:
   push:
